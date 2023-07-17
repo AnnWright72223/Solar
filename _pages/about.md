@@ -4,11 +4,11 @@ read_time: false
 permalink: /about/
 ---
 
-Organized by Hendrix College's very own Dr. Ann Wright, this event serves as a celebration of a Solar Eclipse completely blocking out the sun right above Hendrix! Come one come all! Hendrix Students, Staff, Alumni, Family, Friends and more are all to bare witness this one-in-a-lifetime event right on campus. Unlike the Partial Solar Eclipse of 2017 (displayed in the pictures), this Solar Eclipse will completely block the sun, leaving only a ring of light.
+Hendrix College is very excited to host a total solar eclipse viewing event on April 8, 2024. Students, staff, faculty, alumni, and friends of the college are invited to gather at the Young-Wise Memorial Stadium from 12-4pm.
 
-The day of the Solar Eclipse and Celebration will be April 8th, 2024, so prepare your schedule and join us here at Hendrix! The Celebration will be held on Hendrix's football field to ensure allow space for all of our guests. There will be games, food, merchandise, and more available to make the Celebration fun and eventful! Hendrix branded protective glasses will be available for purchase for your viewing pleasure!
+There will be safe viewing opportunities with free eclipse glasses, telescopes with solar filters, and projections of the Sun. There will be games, food, merchandise, music, and art to make the day a celebration to remember.
 
-This website was made in collaborative effort by Dr. Ann Wright and Database and Web System students to provide information about the celebration and Solar Eclipse, allow students and staff to volunteer for positions during the celebration, buy HDX Solar Eclipse 2024 Merchandise, and submit music that will be played during the celebration. Hendrix invites anyone and everyone to come and celebrate this momentous occasion in the history of Hendrix, Conway, and the greater Central Arkansas history!
+We would like to thank the Arkansas Space Grant Consortium, the Charles Prentiss Hough Odyssey Professor sponsors, and Hendrix College for providing resources for this event. 
 
-![Eclipse](/blog/assets/images/TotalSolarEclipse.jpg){: height="250" width="400"}
-![Test](/blog/assets/images/SolarEclipseInfo1.jpg){: height="250" width="400"}
+# ![Eclipse](/blog/assets/images/TotalSolarEclipse.jpg){: height="250" width="400"}
+# ![Test](/blog/assets/images/SolarEclipseInfo1.jpg){: height="250" width="400"}
