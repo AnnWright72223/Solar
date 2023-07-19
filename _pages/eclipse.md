@@ -1,15 +1,15 @@
 ---
-title: Eclipse Information
-read_time: true
+title: Solar Eclipse Information
+read_time: false
 permalink: /eclipse/
 ---
-![Test](/blog/assets/images/TotalSolarEclipse.jpg){: height="250" width="400" align="center"}
-
 A solar eclipse happens when the Moon is directly between our Sun and Earth, causing the Moon to cast a shadow onto Earth. Because the Earth, Moon, and Sun are moving, the shadow traces a path across the Earth. This area is called the "path of totality." Only people inside this path will see the Sun completely blocked from view by the Moon. Hendrix College is lucky to be inside the path of totality for the April 8, 2024 eclipse.
 
 ![Test](/blog/assets/images/map.png)
 
 We will have 3 minutes and 53 seconds of totality.
+
+![Test](/blog/assets/images/TotalSolarEclipse.jpg){: height="250" width="400" align="center"}
 
 The timeline at our location is:
 - Start of partial eclipse at 12:33:53 pm CDT
