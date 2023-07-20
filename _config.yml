@@ -102,13 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Ann M. Wright"
+  name             : "Dr. Ann Wright"
   avatar           : "/assets/images/drannwright.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Join us for the Solar Eclipse Event of 2024 at Hendrix!
-                      Contact me for any questions!
-                      <br><b>Office</b>:	Acxiom Hall 104
-                      <br><b>Phone</b>:	(501) 450-3808
-                      <br><b>Fax</b>:	(501) 450-3829"
+  bio              : "2024 Solar Eclipse Event Organizer
+                      <br><b>Office</b>:	MCACX 104
+                      <br><b>Phone</b>:	(501) 450-3808"
   location         : "1600 Washington Ave, Conway, AR"
   email            : "wright@hendrix.edu"
   links:

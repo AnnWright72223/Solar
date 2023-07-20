@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Archive"
-    url: /posts/
   - title: "Event info"
     url: /about/
   - title: "Eclipse info"
     url: /eclipse/
+  - title: "Updates"
+    url: /posts/
   
   

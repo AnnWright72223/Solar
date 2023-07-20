@@ -5,10 +5,15 @@ layout: splash
 <link rel="stylesheet"  href="assets/css/flipclock.css">
 <div class="row">
   <figure class="col-sm-4" id="titlecard">
-      <a href="http://hendrix.edu"><img class="logos" src="assets\images\hendrixLogo_bob.jpg" height="50"></a>
-      2024 Solar Eclipse Celebration
+      <a href="http://hendrix.edu"><img class="logos" src="assets\images\hendrixLogo_bob.jpg" height="50"></a>      
   </figure>
 </div>
+
+<h1>Hendrix College 2024 Solar Eclipse Celebration</h1>
+<p>
+
+</p>
+
 <section class="jumbotron" id="countdowntimer">
   <div class="container" id="countdowntext">
         <h1 class="display-4">Countdown To Totality</h1>
@@ -35,22 +40,11 @@ layout: splash
   </div>
 </section>
 
+<h2>Check back often for updates!</h2>
+
+We would like to acknowledge the work of Dr. Mark Goadrich, Disco Tray Studios, and the students in CSCI 340 Database and Web Systems class who developed this webpage as a class project. 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
 
 {% include paginator.html %}
 

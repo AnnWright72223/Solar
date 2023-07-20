@@ -9,5 +9,22 @@ Hendrix College is very excited to host a total solar eclipse viewing event on A
 ![Test](/blog/assets/images/SolarEclipseInfo1.jpg){: height="250" width="400"}
 
 There will be safe viewing opportunities with free eclipse glasses, telescopes with solar filters, and projections of the Sun. Join us for games, food, merchandise, music, and art to make the day a celebration to remember.
+<p>
+Food trucks - located in the horseshoe drive in front of the pool
 
-We would like to thank the Arkansas Space Grant Consortium, the Charles Prentiss Hough Odyssey Professor sponsors, and Hendrix College for providing resources for this event. 
+<ul>
+<li><a href="https://www.spudlovear.com/">Spud Love</a>
+<li><a href="https://www.cbrzcatering.com/">CBRZ Catering</a>
+<li><a href="https://www.facebook.com/phonzies1stop/">Phonzie's 1stop</a>
+<li><a href="https://www.facebook.com/profile.php?id=100093005676065">Umm Numms Raspas</a>
+<li><a href="https://www.loblollycreamery.com/">Loblolly Creamery</a>
+
+<p>
+
+</p>
+<b>We would like to thank the following sponsors for this event:</b>
+<p>
+<ul>
+<li><a href="https://arkansasspacegrant.org/">Arkansas Space Grant Consortium</a>
+<li><a href="https://www.hendrix.edu/odyssey/">The Hendrix Odyssey Program</a>
+<li>Charles Prentiss Hough Odyssey Professor sponsors</li>

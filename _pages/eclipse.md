@@ -3,7 +3,11 @@ title: Solar Eclipse Information
 read_time: false
 permalink: /eclipse/
 ---
-A solar eclipse happens when the Moon is directly between our Sun and Earth, causing the Moon to cast a shadow onto Earth. Because the Earth, Moon, and Sun are moving, the shadow traces a path across the Earth. This area is called the "path of totality." Only people inside this path will see the Sun completely blocked from view by the Moon. Hendrix College is lucky to be inside the path of totality for the April 8, 2024 eclipse.
+A solar eclipse happens when the Moon is directly between our Sun and Earth, causing the Moon to cast a shadow onto Earth. Because the Earth, Moon, and Sun are moving, the shadow traces a path across the Earth. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sOpYoO_SK7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+This area is called the "path of totality." Only people inside this path will see the Sun completely blocked from view by the Moon. Hendrix College is lucky to be inside the path of totality for the April 8, 2024 eclipse.
 
 ![Test](/blog/assets/images/map.png)
 
@@ -27,6 +31,9 @@ The timeline at our location is:
 
 ![Test](/blog/assets/images/SolarEclipseInfo1.jpg)
 
-
+Some links for further information on eclipses:
+- <a href="https://solarsystem.nasa.gov/eclipses/home/">NASA Eclipse page</a>
+- <a href="https://www.greatamericaneclipse.com/">Great American Eclipse page</a>
+- <a href="https://eclipse.aas.org/eye-safety">American Astronomical Society, safe solar viewing page</a>
 
 
