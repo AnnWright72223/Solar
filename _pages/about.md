@@ -12,16 +12,19 @@ There will be safe viewing opportunities with free eclipse glasses, telescopes w
 <p>
 Food trucks - located in the horseshoe drive in front of the pool
 
-<ul>
-<li><a href="https://www.spudlovear.com/">Spud Love</a>
-<li><a href="https://www.cbrzcatering.com/">CBRZ Catering</a>
-<li><a href="https://www.facebook.com/phonzies1stop/">Phonzie's 1stop</a>
-<li><a href="https://www.facebook.com/profile.php?id=100093005676065">Umm Numms Raspas</a>
-<li><a href="https://www.loblollycreamery.com/">Loblolly Creamery</a>
+
+<li><a href="https://www.spudlovear.com/">Spud Love</a></li>
+<li><a href="https://www.cbrzcatering.com/">CBRZ Catering</a></li>
+<li><a href="https://www.facebook.com/phonzies1stop/">Phonzie's 1stop</a></li>
+<li><a href="https://www.facebook.com/profile.php?id=100093005676065">Umm Numms Raspas</a></li>
+<li><a href="https://www.loblollycreamery.com/">Loblolly Creamery</a></li>
+
 
 <p>
 
 </p>
+<hr>
+
 <b>We would like to thank the following sponsors for this event:</b>
 <p>
 <ul>
