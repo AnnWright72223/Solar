@@ -59,7 +59,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true # true, false (default)
-search                   : true # true, false (default)
+search                   : false # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -106,7 +106,8 @@ author:
   avatar           : "/assets/images/drannwright.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "2024 Solar Eclipse Event Organizer
                       <br><b>Office</b>:	MCACX 104
-                      <br><b>Phone</b>:	(501) 450-3808"
+                      <br><b>Phone</b>:	(501) 450-3808
+                      <br><b>E-mail</b>: wright@hendrix.edu"
   location         : "1600 Washington Ave, Conway, AR"
   email            : "wright@hendrix.edu"
   links:
